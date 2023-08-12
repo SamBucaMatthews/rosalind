@@ -1,3 +1,5 @@
+# https://rosalind.info/problems/rna/
+
 def transcribe_dna_to_rna(dna: str):
     return dna.replace("T", "U")
 
